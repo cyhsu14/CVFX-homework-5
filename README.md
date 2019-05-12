@@ -68,7 +68,7 @@ Homework 5 for CVFX, team 7.
 
 <img src="./assets/live_surf3.gif" width="400px">
 
-我們的照片是以磁磚地板和沙發當背景，在拍照時是用手晃動裝水的碗製造水的動態效果。我們用了五張位移相對較小的照片，並都對第一張照片extract features和align。align時因為手與背景有相對移動的關係，出來的結果並不是太好，背景算是有一致，但warp的時候會有點扭曲到碗的形狀。
+我們的照片是以磁磚地板和沙發當背景，在拍照時是用手晃動裝水的碗製造水的動態效果。我們用了五張位移相對較小的照片，並都對第一張照片extract features和align。align時因為手與背景有相對移動的關係，出來的結果並不是太好，背景算是有一致，但warp的時候會有點扭曲到碗的形狀。
 
 **Use PS to enhance effect**
 
@@ -84,8 +84,8 @@ Homework 5 for CVFX, team 7.
 
 1. 照片要拍好
 
-   如果原始照片不好，feature extraction加alignment並沒有辦法得到非常好的效果，反而會在align時得到扭曲的結果。
+   如果原始照片不好，feature extraction加alignment並沒有辦法得到非常好的效果，反而會在align時得到扭曲的結果。
 
 2. 修圖大法好
 
-   乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。｀
+   乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。
