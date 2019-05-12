@@ -9,9 +9,10 @@ Homework 5 for CVFX, team 7.
 
 ## Image alignment results
 
-| SURF | SIFT|
+|||
 |:---:|:---:|
-|<img src="./assets/align_surf.png" width="300px"> | <img src="./assets/align_sift.png" width="300px"> |
+|SURF|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_surf.png" width="300px"> | 
+|SIFT|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_sift.png" width="300px"> |
 
 兩種方法看起來結果都差不多。
 
