@@ -3,6 +3,10 @@ Homework 4 for CVFX, team 7.
 
 ### Multi-view images
 
+<a href="https://drive.google.com/drive/folders/1Ns592eUYIhbyfseaFfRYRmSlW_Uo05EV?fbclid=IwAR1FEz8MWkMxmXoM-tCCu_gO9kWhSP01aJhyzQfBFUuWyaO_lWAxKdm-UZs">樹的照片</a>
+
+<a href="https://drive.google.com/drive/folders/1RxfTBw3E5GFz0Iow5faVP842jv0kky1_?fbclid=IwAR3cRYMfOYR8Gt5-IllIL-TxtcqrOda5LB8agz5TllkqA5Zrg6FWZ9UwBvE">碗的照片</a>
+
 ### Image alignment results
 
 ### Generate the multi-view 3D visual effects
