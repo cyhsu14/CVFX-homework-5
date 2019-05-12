@@ -9,13 +9,31 @@ Homework 4 for CVFX, team 7.
 
 ### Image alignment results
 
+| SURF | SIFT|
+|:---:|:---:|
+|<img src="./assets/align_surf.png" width="300px"> | <img src="./assets/align_sift.png" width="300px"> |
+|看起來...沒什麼差。|就沒什麼差了該怎麼說好呢|
+
 ### Generate the multi-view 3D visual effects
+
+我們做樹的Motion parallax。
+
+| SURF | SIFT |
+|:---:|:---:|
+|<img src="./assets/tree_surf.gif" width="300px"> | <img src="./assets/tree_sift.gif" width="300px"> |
+|看起來...沒什麼差。|就沒什麼差了該怎麼說好呢|
 
 ### Use PS to enhance effect
 
+使用PS讓兩張圖的樹長一樣，合成出來的gif中樹會因此不動進而在視覺上被強調出來。
+
+<img src="./assets/tree_sift_ps.gif" width="300px">
+
 ### Complete 3 different effects
 
-#### Feature Extraction
+#### Motion parallax
+
+在上面。
 
 #### Stop Motion
 
