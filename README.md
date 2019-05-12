@@ -12,6 +12,7 @@ Homework 4 for CVFX, team 7.
 | SURF | SIFT|
 |:---:|:---:|
 |<img src="./assets/align_surf.png" width="300px"> | <img src="./assets/align_sift.png" width="300px"> |
+
 兩種方法看起來結果都差不多。
 
 ### Generate the multi-view 3D visual effects
@@ -21,7 +22,9 @@ Homework 4 for CVFX, team 7.
 | SURF | SIFT |
 |:---:|:---:|
 |<img src="./assets/tree_surf.gif" width="300px"> | <img src="./assets/tree_sift.gif" width="300px"> |
+
 兩種方法看起來結果都差不多。
+
 ### Use PS to enhance effect
 
 用PhotoShop讓兩張圖的樹變成一模一樣，使得在合成出來的gif中，樹看起來不動進而在視覺上被強調出來。
