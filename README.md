@@ -21,7 +21,7 @@ Homework 5 for CVFX, team 7.
 
 ### 做法
 
-兩張樹做feature extraction後，將照片二對照片一做alignment。我們發現，如果沒有做任何調整直接extract feature的話，他會傾向選擇在背景的feature，導致之後的alignment是對背景做，與我們的目的相反；因此我們有畫feature extraction的mask把中間的樹匡起來，並增加取用feature的比例，得到最後的結果。
+兩張樹做feature extraction後，將照片二對照片一做alignment。我們發現，如果沒有做任何調整直接extract feature的話，他會傾向選擇在背景的feature，導致之後的alignment是對背景做，與我們的目的相反；因此我們有畫feature extraction的mask把中間的樹框起來，並增加取用feature的比例，得到最後的結果。
 
 | SURF | SIFT |
 |:---:|:---:|
@@ -85,7 +85,7 @@ Homework 5 for CVFX, team 7.
 1. 照片要拍好
 
    如果原始照片不好，feature extraction加alignment並沒有辦法得到非常好的效果，反而會在align時得到扭曲的結果。
-   
-2. 要會ps
 
-   乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。｀
+2. 修圖大法好
+
+   乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。｀
