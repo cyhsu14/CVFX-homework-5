@@ -85,6 +85,7 @@ Homework 5 for CVFX, team 7.
 1. 照片要拍好
 
    如果原始照片不好，feature extraction加alignment並沒有辦法得到非常好的效果，反而會在align時得到扭曲的結果。
+   
 2. 要會ps
 
    乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。｀
