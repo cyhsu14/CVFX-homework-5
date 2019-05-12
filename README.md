@@ -89,4 +89,4 @@ Homework 5 for CVFX, team 7.
 
 2. 修圖大法好
 
-   乘上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。
+   承上點，因為硬體（手機）與技術（大多是手持手機）的限制，feature extraction加alignment得到的結果大多不盡理想，這時候就很需要photoshop的幫助。
