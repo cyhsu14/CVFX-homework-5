@@ -9,7 +9,6 @@ Homework 5 for CVFX, team 7.
 
 ## Image alignment results
 
-|||
 |:---:|:---:|
 |SURF|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_surf.png" width="300px"> | 
 |SIFT|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_sift.png" width="300px"> |
@@ -80,6 +79,10 @@ Homework 5 for CVFX, team 7.
 做法：
 
 選一張圖片(以下簡稱A)當作固定不動的背景後，將其他四張圖的碗剪下並分別貼到A圖上，形成新的四張圖片，由於碗的大小有些微差異因此有手動微調，最後再合成gif檔即完成。
+
+效果：
+
+可以看到經過PS處理過後，gif圖上只有碗內的水在晃動，其他都是靜止的，符合Live photo的要求。
 
 ## 小結
 
