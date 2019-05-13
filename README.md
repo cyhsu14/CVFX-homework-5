@@ -8,7 +8,7 @@ Homework 5 for CVFX, team 7.
 <a href="https://drive.google.com/drive/folders/1RxfTBw3E5GFz0Iow5faVP842jv0kky1_?fbclid=IwAR3cRYMfOYR8Gt5-IllIL-TxtcqrOda5LB8agz5TllkqA5Zrg6FWZ9UwBvE">碗的照片</a>
 
 ## Image alignment results
-
+|||
 |:---:|:---:|
 |SURF|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_surf.png" width="300px"> | 
 |SIFT|<img src="./assets/tree_img1.png" width="300px"><img src="./assets/align_sift.png" width="300px"> |
